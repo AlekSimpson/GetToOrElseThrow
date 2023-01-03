@@ -30,7 +30,7 @@ java {
 }
 
 // Set as appropriate for your organization
-group = "com.yourorg"
+group = "org.openrewrite.recipe"
 description = "Rewrite recipes."
 
 repositories {
